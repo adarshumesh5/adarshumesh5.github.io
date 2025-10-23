@@ -3,17 +3,17 @@
    ========================================================================== */
 :root {
     /* Colors */
-    --primary-color: #2563eb;
-    --primary-dark: #1e40af;
-    --secondary-color: #10b981;
-    --accent-color: #f59e0b;
+    --primary-color: #154D57;
+    --primary-dark: #0f3a42;
+    --secondary-color: #B7A08B;
+    --accent-color: #D4B896;
     --text-primary: #1f2937;
-    --text-secondary: #6b7280;
-    --text-light: #9ca3af;
-    --bg-primary: #ffffff;
-    --bg-secondary: #f9fafb;
-    --bg-dark: #111827;
-    --border-color: #e5e7eb;
+    --text-secondary: #4a5568;
+    --text-light: #718096;
+    --bg-primary: #FEFAF7;
+    --bg-secondary: #F5F1ED;
+    --bg-dark: #154D57;
+    --border-color: #E8DFD8;
 
     /* Typography */
     --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -182,7 +182,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #154D57 0%, #1a6672 50%, #B7A08B 100%);
     color: white;
     padding: var(--spacing-xl) 0;
     margin-top: 70px;
@@ -201,7 +201,7 @@ ul {
 
 .hero-title .highlight {
     color: var(--accent-color);
-    background: linear-gradient(90deg, #f59e0b, #f97316);
+    background: linear-gradient(90deg, #D4B896, #B7A08B);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
