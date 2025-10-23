@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Product Manager",
+    "company": "JPMorgan Chase & Co.",
+    "period": "Dec 2024 - Present",
+    "location": "CA",
+    "description": "Leading end-to-end product vision and multi-quarter roadmap for a customer-facing digital banking platform, aligning business objectives with user needs and engineering feasibility to enhance customer retention.",
+    "responsibilities": [
+      "Spearheaded product vision and roadmap for digital banking platform, resulting in 25% reduction in average account onboarding time",
+      "Led cross-functional squads of engineers, designers, QA, and compliance analysts to deliver high-impact features",
+      "Conducted user research, competitive benchmarking, and stakeholder interviews, contributing to 18% increase in user adoption",
+      "Prioritized features and technical debt in JIRA through continuous backlog grooming and stakeholder alignment",
+      "Defined and tracked key product health metrics and KPIs using Tableau, driving 12% increase in monthly active users",
+      "Collaborated with legal, compliance, and risk teams to integrate automated KYC/AML checks, ensuring 100% regulatory adherence",
+      "Coordinated UAT cycles with internal business units and external vendors, achieving 95% defect resolution rate before production",
+      "Owned product launch planning and enablement documentation, impacting over 500 relationship managers and frontline staff"
+    ]
+  },
+  {
+    "title": "Scrum Master / Software Engineer",
+    "company": "GlobalLogic India Private Limited",
+    "period": "Dec 2020 - Jul 2023",
+    "location": "India",
+    "description": "Facilitated Agile Scrum ceremonies for cross-functional teams while developing modular, user-interactive web applications using modern tech stack, improving sprint velocity by 25% and reducing blockers by 30%.",
+    "responsibilities": [
+      "Facilitated Agile ceremonies (stand-ups, sprint planning, retrospectives) for 10+ team members, improving sprint velocity by 25%",
+      "Developed web applications using React.js, Node.js, and Java Spring Boot Microservices with 40% improvement in code scalability",
+      "Collaborated with Product Owners to prioritize product backlog, aligning business goals with technical feasibility",
+      "Integrated localization (i18n) to support 24+ languages, maintaining Lighthouse accessibility score of 90+",
+      "Tracked sprint metrics (velocity, burndown, throughput) to identify bottlenecks and drive continuous improvement",
+      "Enabled cross-team coordination and dependency management, reducing integration delays by 20%",
+      "Implemented retrospective action items, leading to 15% increase in team satisfaction scores",
+      "Partnered with QA and DevOps to streamline UAT and CI/CD pipelines, increasing deployment frequency",
+      "Championed use of JIRA, Confluence, GitHub, and Looker for sprint tracking, documentation, and executive reporting"
+    ]
+  },
+  {
+    "title": "Software Engineer Trainee",
+    "company": "R-Financial",
+    "period": "Jul 2019 - Nov 2020",
+    "location": "India",
+    "description": "Developed backend services for cloud-based digital lending application, reducing loan approval processing time by 30% through optimized data handling and API design.",
+    "responsibilities": [
+      "Developed backend services in Java and Spring Boot for digital lending application, reducing processing time by 30%",
+      "Created internal dashboards and admin tools using JavaScript, HTML5, and RESTful APIs, reducing support tickets by 40%",
+      "Collaborated with QA teams for manual and automated testing during UAT and regression testing phases",
+      "Built robust SQL queries and scheduled data pipelines for financial reporting and compliance tracking",
+      "Participated in Agile ceremonies including sprint planning, backlog grooming, and daily standups",
+      "Contributed to peer code reviews and pair programming sessions, improving code quality and knowledge sharing",
+      "Documented service architectures, deployment processes, and integration workflows in Confluence"
+    ]
+  }
+]

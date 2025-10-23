@@ -1,0 +1,113 @@
+[
+  {
+    "category": "Product Management & Strategy",
+    "icon": "fas fa-lightbulb",
+    "skills": [
+      "Product Strategy",
+      "Product Planning",
+      "Roadmapping",
+      "Feature Prioritization",
+      "Product Lifecycle Management",
+      "Product Design",
+      "User Research",
+      "Market Analysis",
+      "Go-to-Market Planning",
+      "Stakeholder Management",
+      "Design Thinking",
+      "SDLC"
+    ]
+  },
+  {
+    "category": "Project & Operations Management",
+    "icon": "fas fa-tasks",
+    "skills": [
+      "Agile",
+      "Scrum",
+      "Project Management",
+      "Operations Management",
+      "UAT (User Acceptance Testing)",
+      "Microsoft Office Suite",
+      "Executive Reporting",
+      "Vendor Management",
+      "Conflict Resolution",
+      "Process Optimization",
+      "Cross-functional Collaboration"
+    ]
+  },
+  {
+    "category": "Data & Analytics",
+    "icon": "fas fa-chart-bar",
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Data Analytics",
+      "Data Visualization",
+      "Metrics & KPIs Definition",
+      "A/B Testing",
+      "Forecasting",
+      "Data-driven Decision-making"
+    ]
+  },
+  {
+    "category": "Technical & Development Tools",
+    "icon": "fas fa-code",
+    "skills": [
+      "Java",
+      "JavaScript",
+      "C",
+      "C++",
+      "Node.js",
+      "React.js",
+      "HTML5",
+      "CSS3",
+      "Spring Boot",
+      "REST APIs",
+      "CI/CD",
+      "Git",
+      "API Integration",
+      "Microservices"
+    ]
+  },
+  {
+    "category": "Product & Collaboration Tools",
+    "icon": "fas fa-toolbox",
+    "skills": [
+      "JIRA",
+      "Confluence",
+      "Figma",
+      "GitHub",
+      "Looker",
+      "Aha!",
+      "Version Control"
+    ]
+  },
+  {
+    "category": "Domain Knowledge",
+    "icon": "fas fa-university",
+    "skills": [
+      "Digital Banking",
+      "Fintech Products",
+      "Risk & Compliance (KYC, AML)",
+      "Core Banking Systems",
+      "Transaction Processing",
+      "Security & Authentication",
+      "Enterprise Platform Development",
+      "B2B SaaS"
+    ]
+  },
+  {
+    "category": "Communication & Leadership",
+    "icon": "fas fa-users",
+    "skills": [
+      "Product Evangelism",
+      "Presentation Skills",
+      "Cross-functional Leadership",
+      "Stakeholder Communication",
+      "Team Coordination",
+      "Executive Reporting",
+      "Forecasting & Cost Analysis",
+      "Inventory Planning"
+    ]
+  }
+]

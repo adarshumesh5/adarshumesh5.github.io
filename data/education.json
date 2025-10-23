@@ -1,0 +1,48 @@
+{
+  "education": [
+    {
+      "degree": "Masters in Engineering Management",
+      "school": "California State University Northridge",
+      "period": "Aug 2023 - May 2025",
+      "details": "Advanced degree combining technical expertise with business acumen and leadership skills. Focus on product management, engineering economics, organizational leadership, and strategic decision-making."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Scrum Master (CSM)",
+      "issuer": "Scrum Alliance"
+    },
+    {
+      "name": "Enterprise Design Thinking, Practitioner",
+      "issuer": "IBM"
+    },
+    {
+      "name": "Aha! Product Management Professional Certificate",
+      "issuer": "Aha!"
+    },
+    {
+      "name": "AI for Product Management",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "name": "Product Management Basics",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "name": "Product Management: Building a Product Roadmap",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "name": "Product Management First Steps",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "name": "Scrum: The Basics",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "name": "Excel Essential Training (Microsoft 365)",
+      "issuer": "LinkedIn Learning"
+    }
+  ]
+}

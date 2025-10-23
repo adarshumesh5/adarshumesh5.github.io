@@ -1,0 +1,20 @@
+{
+  "profile": {
+    "name": "Adarsh Umesh",
+    "title": "Product Manager & Full-Stack Engineer",
+    "bio": "Product management professional with 5+ years of experience delivering user-focused, scalable solutions across finance and technology domains."
+  },
+  "contact": {
+    "email": "connect2adarshum@gmail.com",
+    "phone": "+1 (747) 333-4258",
+    "githubUsername": "adarshumesh5",
+    "linkedin": "https://linkedin.com/in/adarsh-umesh",
+    "location": "Northridge, CA"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Adarsh Umesh | Product Manager & Full-Stack Engineer Portfolio",
+    "description": "Professional portfolio showcasing product management expertise and full-stack engineering skills",
+    "repositoryName": "adarsh-umesh-portfolio"
+  }
+}

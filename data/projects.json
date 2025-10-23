@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Financial Java API",
+    "description": "Spring Boot-based banking service architecture with microservices design, providing robust API endpoints for financial operations. Implements best practices for security, scalability, and maintainability.",
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "REST API",
+      "PostgreSQL"
+    ],
+    "icon": "fas fa-university",
+    "github": "https://github.com/adarshumesh5/financial-java-api"
+  },
+  {
+    "title": "Financial Insights with Power BI",
+    "description": "Full-stack development project integrating Power BI analytics for banking data visualization. Provides comprehensive financial insights through interactive dashboards and real-time data analysis.",
+    "technologies": [
+      "Power BI",
+      "DAX",
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "icon": "fas fa-chart-line",
+    "github": "https://github.com/adarshumesh5/financial-insights-in-banking-data-using-powerbi"
+  },
+  {
+    "title": "End-to-End Data Engineering",
+    "description": "Comprehensive data engineering exploration project implementing ETL pipelines, data warehousing, and analytics workflows using Python and modern data engineering tools.",
+    "technologies": [
+      "Python",
+      "ETL",
+      "Data Warehousing",
+      "Pandas",
+      "NumPy"
+    ],
+    "icon": "fas fa-database",
+    "github": "https://github.com/adarshumesh5/e2e-data-engineering"
+  },
+  {
+    "title": "Express REST API Boilerplate",
+    "description": "Production-ready Node.js REST API framework with Express.js, featuring authentication, error handling, logging, and best practices for building scalable backend services.",
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "REST API",
+      "MongoDB"
+    ],
+    "icon": "fas fa-server",
+    "github": "https://github.com/adarshumesh5/express-rest-boilerplate"
+  },
+  {
+    "title": "Interactive Resume",
+    "description": "JavaScript-based interactive resume showcasing modern web development skills with dynamic content loading and responsive design.",
+    "technologies": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Responsive Design"
+    ],
+    "icon": "fas fa-file-code",
+    "github": "https://github.com/adarshumesh5/Resume"
+  },
+  {
+    "title": "Java Programming Projects",
+    "description": "Collection of Java programming projects demonstrating object-oriented programming principles, data structures, algorithms, and software design patterns.",
+    "technologies": [
+      "Java",
+      "OOP",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "icon": "fab fa-java",
+    "github": "https://github.com/adarshumesh5/Java"
+  }
+]
