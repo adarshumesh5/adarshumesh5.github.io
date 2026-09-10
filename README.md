@@ -1,6 +1,6 @@
 # Adarsh Umesh - Portfolio Website
 
-A modern, responsive portfolio website showcasing the professional experience, skills, and projects of Adarsh Umesh - Product Manager & Full-Stack Engineer.
+A modern, responsive portfolio website showcasing the professional experience, skills, and projects of Adarsh Umesh - Business Analyst & Project Manager.
 
 ## Features
 
@@ -27,22 +27,22 @@ A modern, responsive portfolio website showcasing the professional experience, s
 
 ```
 adarsh-umesh-portfolio/
-├── assets/
-│   ├── css/
-│   │   └── styles.css       # Main stylesheet
-│   ├── js/
-│   │   └── main.js          # JavaScript functionality
-│   └── scss/                # SCSS source files (optional)
-├── data/
-│   ├── experience.json      # Professional experience data
-│   ├── skills.json          # Skills and technologies
-│   ├── projects.json        # Project portfolio
-│   └── education.json       # Education and certifications
-├── images/
-│   └── projects/            # Project images
-├── documents/               # Resume and other documents
-├── index.html              # Main HTML file
-└── README.md               # This file
+âââ assets/
+â   âââ css/
+â   â   âââ styles.css       # Main stylesheet
+â   âââ js/
+â   â   âââ main.js          # JavaScript functionality
+â   âââ scss/                # SCSS source files (optional)
+âââ data/
+â   âââ experience.json      # Professional experience data
+â   âââ skills.json          # Skills and technologies
+â   âââ projects.json        # Project portfolio
+â   âââ education.json       # Education and certifications
+âââ images/
+â   âââ projects/            # Project images
+âââ documents/               # Resume and other documents
+âââ index.html              # Main HTML file
+âââ README.md               # This file
 ```
 
 ## Portfolio Sections
@@ -57,14 +57,12 @@ adarsh-umesh-portfolio/
 
 ## Key Highlights
 
-- **5+ Years Experience** delivering user-focused solutions in finance and technology
-- **Product Manager** at JPMorgan Chase & Co. (Dec 2024 - Present)
+- **5+ Years Experience** across business analysis, project management, and software engineering
+- **Business Analyst** at ShrinQ Consulting Group Inc. (Jul 2026 - Present)
 - **Certified Scrum Master** with strong technical background
 - **Full-Stack Engineer** proficient in Java, Python, JavaScript, React.js, Node.js, Spring Boot
-- **25%** reduction in average account onboarding time
-- **18%** increase in user adoption over two product releases
-- **12%** increase in monthly active users
-- **95%** defect resolution rate before production deployment
+- **80-85%** clinic adoption driven on a two-tier intraoral scanner rollout at 9 Tree Solution
+- **95%** test coverage achieved with Jest, Mocha, and JUnit at GlobalLogic
 - **40%** improvement in code scalability through Micro Frontend Architecture
 - **30%** reduction in loan approval processing time at R-Financial
 
@@ -160,7 +158,7 @@ This portfolio can be deployed to:
 ## Contact
 
 **Adarsh Umesh**
-- Email: [connect2adarshum@gmail.com](mailto:connect2adarshum@gmail.com)
+- Email: [adarshu.career@gmail.com](mailto:adarshu.career@gmail.com)
 - Phone: +1 (747) 333-4258
 - LinkedIn: [linkedin.com/in/adarsh-umesh](https://linkedin.com/in/adarsh-umesh)
 - GitHub: [@adarshumesh5](https://github.com/adarshumesh5)
